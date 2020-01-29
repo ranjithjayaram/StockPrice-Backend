@@ -1,0 +1,692 @@
+[{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/01/2020",
+    "stockPrice":"2181.67"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/02/2020",
+    "stockPrice":"2178.88"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/03/2020",
+    "stockPrice":"2184.8"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/04/2020",
+    "stockPrice":"2189.9"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/05/2020",
+    "stockPrice":"2190.77"
+},{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/06/2020",
+    "stockPrice":"2181.67"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/07/2020",
+    "stockPrice":"2198.88"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/08/2020",
+    "stockPrice":"2174.8"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/09/2020",
+    "stockPrice":"2188.9"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/10/2020",
+    "stockPrice":"2190.77"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/11/2020",
+    "stockPrice":"2151.67"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/12/2020",
+    "stockPrice":"2108.88"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/13/2020",
+    "stockPrice":"2174.8"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/14/2020",
+    "stockPrice":"2109.9"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/15/2020",
+    "stockPrice":"2200.77"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/16/2020",
+    "stockPrice":"2171.67"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/17/2020",
+    "stockPrice":"2278.88"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/18/2020",
+    "stockPrice":"2340.8"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/19/2020",
+    "stockPrice":"2679.9"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/20/2020",
+    "stockPrice":"2000.77"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/21/2020",
+    "stockPrice":"3181.67"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/22/2020",
+    "stockPrice":"2578.88"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/23/2020",
+    "stockPrice":"2884.8"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/24/2020",
+    "stockPrice":"2199.9"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/25/2020",
+    "stockPrice":"2890.77"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/26/2020",
+    "stockPrice":"2881.67"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/27/2020",
+    "stockPrice":"2178.88"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/28/2020",
+    "stockPrice":"2184.8"
+},
+{
+    "cid":"1",
+    "companyName":"TCS",
+    "date":"01/29/2020",
+    "stockPrice":"2189.9"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/01/2020",
+    "stockPrice":"3181.67"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/02/2020",
+    "stockPrice":"3178.88"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/03/2020",
+    "stockPrice":"3184.8"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/04/2020",
+    "stockPrice":"3189.9"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/05/2020",
+    "stockPrice":"3190.77"
+},{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/06/2020",
+    "stockPrice":"3181.67"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/07/2020",
+    "stockPrice":"3198.88"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/08/2020",
+    "stockPrice":"3174.8"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/09/2020",
+    "stockPrice":"3188.9"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/10/2020",
+    "stockPrice":"3190.77"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/11/2020",
+    "stockPrice":"3151.67"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/12/2020",
+    "stockPrice":"3108.88"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/13/2020",
+    "stockPrice":"3174.8"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/14/2020",
+    "stockPrice":"3109.9"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/15/2020",
+    "stockPrice":"3200.77"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/16/2020",
+    "stockPrice":"3171.67"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/17/2020",
+    "stockPrice":"3278.88"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/18/2020",
+    "stockPrice":"3340.8"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/19/2020",
+    "stockPrice":"3679.9"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/20/2020",
+    "stockPrice":"3000.77"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/21/2020",
+    "stockPrice":"3181.67"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/22/2020",
+    "stockPrice":"3578.88"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/23/2020",
+    "stockPrice":"3884.8"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/24/2020",
+    "stockPrice":"3199.9"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/25/2020",
+    "stockPrice":"3890.77"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/26/2020",
+    "stockPrice":"3881.67"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/27/2020",
+    "stockPrice":"3178.88"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/28/2020",
+    "stockPrice":"3184.8"
+},
+{
+    "cid":"2",
+    "companyName":"HSBC",
+    "date":"01/29/2020",
+    "stockPrice":"3189.9"
+},{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/01/2020",
+    "stockPrice":"1581.67"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/02/2020",
+    "stockPrice":"1578.88"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/03/2020",
+    "stockPrice":"1584.8"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/04/2020",
+    "stockPrice":"1589.9"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/05/2020",
+    "stockPrice":"1590.77"
+},{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/06/2020",
+    "stockPrice":"1581.67"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/07/2020",
+    "stockPrice":"1598.88"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/08/2020",
+    "stockPrice":"1574.8"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/09/2020",
+    "stockPrice":"1588.9"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/10/2020",
+    "stockPrice":"1590.77"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/11/2020",
+    "stockPrice":"1551.67"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/12/2020",
+    "stockPrice":"1508.88"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/13/2020",
+    "stockPrice":"1574.8"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/14/2020",
+    "stockPrice":"1509.9"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/15/2020",
+    "stockPrice":"2200.77"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/16/2020",
+    "stockPrice":"1571.67"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/17/2020",
+    "stockPrice":"2278.88"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/18/2020",
+    "stockPrice":"2340.8"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/19/2020",
+    "stockPrice":"2679.9"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/20/2020",
+    "stockPrice":"2000.77"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/21/2020",
+    "stockPrice":"1581.67"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/22/2020",
+    "stockPrice":"2578.88"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/23/2020",
+    "stockPrice":"2884.8"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/24/2020",
+    "stockPrice":"1599.9"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/25/2020",
+    "stockPrice":"2890.77"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/26/2020",
+    "stockPrice":"2881.67"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/27/2020",
+    "stockPrice":"1578.88"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/28/2020",
+    "stockPrice":"1584.8"
+},
+{
+    "cid":"3",
+    "companyName":"BPCL",
+    "date":"01/29/2020",
+    "stockPrice":"1589.9"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/01/2020",
+    "stockPrice":"1481.67"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/02/2020",
+    "stockPrice":"1478.88"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/03/2020",
+    "stockPrice":"1484.8"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/04/2020",
+    "stockPrice":"1489.9"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/05/2020",
+    "stockPrice":"1490.77"
+},{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/06/2020",
+    "stockPrice":"1481.67"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/07/2020",
+    "stockPrice":"1498.88"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/08/2020",
+    "stockPrice":"1474.8"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/09/2020",
+    "stockPrice":"1488.9"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/10/2020",
+    "stockPrice":"1490.77"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/11/2020",
+    "stockPrice":"1451.67"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/12/2020",
+    "stockPrice":"1408.88"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/13/2020",
+    "stockPrice":"1474.8"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/14/2020",
+    "stockPrice":"1409.9"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/15/2020",
+    "stockPrice":"1200.77"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/16/2020",
+    "stockPrice":"1471.67"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/17/2020",
+    "stockPrice":"1278.88"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/18/2020",
+    "stockPrice":"1340.8"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/19/2020",
+    "stockPrice":"1679.9"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/20/2020",
+    "stockPrice":"1000.77"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/21/2020",
+    "stockPrice":"1481.67"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/22/2020",
+    "stockPrice":"1578.88"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/23/2020",
+    "stockPrice":"1884.8"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/24/2020",
+    "stockPrice":"1499.9"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/25/2020",
+    "stockPrice":"1890.77"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/26/2020",
+    "stockPrice":"1881.67"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/27/2020",
+    "stockPrice":"1478.88"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/28/2020",
+    "stockPrice":"1484.8"
+},
+{
+    "cid":"4",
+    "companyName":"Infosys",
+    "date":"01/29/2020",
+    "stockPrice":"1489.9"
+}
+]
